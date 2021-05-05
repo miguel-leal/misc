@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  DllPrj.cpp
+  Onetap.cpp
+  Onetap_data.cpp
+  Onetap_InitData.cpp
+  Onetap_rdata.cpp
+  Onetap_text.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1369,5): warning MSB8012: TargetPath(C:\Users\miguel\Documents\GitHub\misc\onetap.su source\onetap.su source\Release\DllPrj.dll) no coincide con el valor de la propiedad OutputFile de Linker (C:\Users\miguel\Documents\GitHub\misc\onetap.su source\onetap.su source\Release\onetap.dll). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetName(DllPrj) no coincide con el valor de la propiedad OutputFile de Linker (onetap). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Link.OutputFile).
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 104 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+* CIL library *(* CIL module *) : warning LNK4078: se encontraron varias secciones '.text' con atributos diferentes (C0400040)
+  DllPrj.vcxproj -> C:\Users\miguel\Documents\GitHub\misc\onetap.su source\onetap.su source\Release\DllPrj.dll
